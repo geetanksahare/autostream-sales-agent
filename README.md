@@ -439,5 +439,3 @@ Using a fast keyword classifier before routing to the LLM saves a full LLM call 
 | Real-world deployability | ✅ WhatsApp webhook + Redis architecture provided |
 
 ---
-
-*Built for ServiceHive / Inflx ML Intern Assignment. Candidate submission.*
